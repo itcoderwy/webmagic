@@ -11,7 +11,7 @@ import us.codecraft.webmagic.Spider;
  **/
 public class WebMagicTest {
     public static void main(String[] args) {
-        //爬取某个网站整个页面的爬取
+        //爬取某个网站整个页面的爬取1
         //1,创建页面解析器
         //2,设置爬取的url
         Spider.create(new MyPageProcessor())
